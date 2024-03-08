@@ -33,7 +33,9 @@ fiona==1.9.5
 flatbuffers==23.5.26
 fonttools==4.49.0
 frozenlist==1.4.1
+geographiclib==2.0
 geopandas==0.14.3
+geopy==2.4.1
 humanfriendly==10.0
 idna==3.6
 importlib-metadata==7.0.1
